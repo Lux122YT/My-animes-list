@@ -1,7 +1,2 @@
 1- My Anime Liste__________________________________________________________  ______________________________
 2-                                                                          |  Episódios   -   Temporadas  |
-3-                                                                          |------------------------------|
-4- 1- Isekai generico                                                       |Episódio: 001 - Temporada: 001|
-5- 2- sekai mais generico                                                   |Episódio: 010 - Temporada: 010|
-6- 3- a                                                                     |Episódio: 00a - Temporada: 00a|
-7- b                                                                     |Episódio: 0bb - Temporada: 00b|
